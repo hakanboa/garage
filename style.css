@@ -1,0 +1,18 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+}
+.menu1{
+    background-image: url("achtergrond.jpg");
+    background-size: cover;
+}
+.page1{
+    background-image: url("background.png");
+    background-size: cover;
+}
